@@ -1,0 +1,7 @@
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\Lab 10 - circumference and area of a circle.csprojAssemblyReference.cache
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\Lab 10 - circumference and area of a circle.csproj.CoreCompileInputs.cache
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\k8e_3\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
